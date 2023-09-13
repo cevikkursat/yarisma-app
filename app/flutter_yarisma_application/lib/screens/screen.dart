@@ -1,0 +1,14 @@
+export './welcome_page.dart';
+export './signin_page.dart';
+export './register_page.dart';
+export './reset_password.dart';
+export './activate_accounrt.dart';
+export './home_page.dart';
+export './first_run.dart';
+export './account_page.dart';
+export './admin_page.dart';
+export './search_page.dart';
+export './event_create.dart';
+export './index_page.dart';
+export './event_detail_page.dart';
+export './end_game_page.dart';
