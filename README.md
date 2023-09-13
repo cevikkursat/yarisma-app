@@ -1,7 +1,8 @@
 # yarisma-app
-2022 yılında mobil programlama dersi için yaptığım bu uygulama; kullanıcıların istedikleri sorulardan oluşan yarışmalar oluşturabildiği, yarışın ne zamana kadar süreceği gibi bilgileri kendilerinin belirleyebildiği ve kullanıcıların uygulama ana sayfasında yarışmaları listeleyebilip istediği yarışmaya katılabildiği, aynı zamanda bu yarışmaların sonuçlarına göre puan sıralaması yapılarak yarışmaların kazananlarının belirlendiği bir uygulamadır.
+Mobil programlama dersi için yaptığım bu uygulama; kullanıcıların istedikleri sorulardan oluşan yarışmalar oluşturabildiği, yarışın ne zamana kadar süreceği gibi bilgileri kendilerinin belirleyebildiği ve kullanıcıların uygulama ana sayfasında yarışmaları listeleyebilip istediği yarışmaya katılabildiği, aynı zamanda bu yarışmaların sonuçlarına göre puan sıralaması yapılarak yarışmaların kazananlarının belirlendiği bir uygulamadır.
 
-This application, which I made in 2022 for the mobile programming course, is an application where users can create competitions consisting of the questions they want, they can determine information such as how long the race will last, and users can list the competitions on the application home page and participate in the competition they want, and at the same time, the winners of the competitions are determined by ranking the points according to the results of these competitions.
+This application I made for the mobile programming course is an application where users can create competitions consisting of the questions they want, they can determine information such as how long the race will last, and users can list the competitions on the application home page and participate in the competition they want, and at the same time, the winners of the competitions are determined by ranking the points according to the results of these competitions.
+
 ## Kullanılan Teknolojiler
 #### Backend
 [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
